@@ -1,3 +1,6 @@
 [submodule "backend_service"]
-	path = backend_service
+	path = services/backend_service
 	url = git@github.com:ComfyUI-With-DeepSeek-Service/backend_service.git
+[submodule "services/tg_bot_service"]
+	path = services/tg_bot_service
+	url = git@github.com:ComfyUI-With-DeepSeek-Service/tg_bot_service.git
