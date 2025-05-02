@@ -174,3 +174,8 @@ cython_debug/
 .pypirc
 /.idea/.gitignore
 /.idea/material_theme_project_new.xml
+/.idea
+/_vol_ollama-data_model
+/t.json
+/tmp.txt
+/get_folder_content.py

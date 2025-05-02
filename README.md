@@ -15,3 +15,6 @@
 * Prometheus
 * Sentry
 * MinIO
+
+
+## Docker commands
